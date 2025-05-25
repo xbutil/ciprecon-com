@@ -79,7 +79,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png-128x128.png",
     "cssOptimize": true,
     "site_lang": "es",
-    "mbrsiteDomain": "ecz8fkgkhq",
+    "mbrsiteDomain": "ygwbzvbfue",
     "usedWebp": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -92,7 +92,7 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "publishEditFolder": false
   },
   "pages": {

@@ -26230,133 +26230,9 @@ a {
 .cid-uMpMnyp1Me .mbr-section-btn {
   text-align: center;
 }
-.cid-uMpME1dYs3 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #e5e5e5;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .form-title,
-  .cid-uMpME1dYs3 .form-wrapper {
-    padding: 0;
-  }
-}
-.cid-uMpME1dYs3 .mbr-section-btn {
-  margin-top: 60px;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .mbr-section-btn {
-    margin-top: 30px;
-  }
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn {
-  height: 21px;
-  min-width: 70px;
-  position: relative;
-  overflow: visible;
-  padding: 0 12px 0 0;
-  justify-content: flex-start;
-  margin-left: 28px;
-  box-shadow: none;
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn:first-child {
-  margin-left: 9.6px;
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn:focus {
-  box-shadow: none;
-}
-@media (max-width: 768px) {
-  .cid-uMpME1dYs3 .mbr-section-btn .btn {
-    max-width: 85px;
-  }
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn span {
-  position: absolute;
-  right: -12px;
-  width: 18px;
-  height: 18px;
-  font-size: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  background: #124ad6;
-  color: #ffffff;
-  margin: 2px 0 0 12px;
-  padding-left: 2px;
-  transition: all .33s ease;
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn:hover {
-  transform: scale(1) !important;
-  color: #3575bd !important;
-}
-.cid-uMpME1dYs3 .mbr-section-btn .btn:hover span {
-  width: 28px;
-  border-radius: 22px;
-  right: -28px;
-}
-.cid-uMpME1dYs3 .title-wrapper {
-  margin-left: 160px;
-  margin-right: 30px;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .title-wrapper {
-    margin: 0 30px 25px;
-  }
-}
-.cid-uMpME1dYs3 .title-wrapper .mbr-section-title {
-  margin: 0;
-}
-.cid-uMpME1dYs3 .mbr-form {
-  margin-right: 160px;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .mbr-form {
-    margin: 0 30px;
-  }
-}
-.cid-uMpME1dYs3 .mbr-form .dragArea .mbr-section-subtitle {
-  margin-bottom: 40px;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .mbr-form .dragArea .mbr-section-subtitle {
-    margin-bottom: 20px;
-  }
-}
-.cid-uMpME1dYs3 .mbr-form .dragArea .form-group {
-  margin-bottom: 20px !important;
-}
-@media (max-width: 992px) {
-  .cid-uMpME1dYs3 .mbr-form .dragArea .form-group {
-    margin-bottom: 12px !important;
-  }
-}
-.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control {
-  min-height: 50px;
-  padding: 10px 25px;
-  background: transparent;
-  box-shadow: none;
-  border: none !important;
-  border-bottom: 2px solid #272727 !important;
-  border-radius: 0;
-}
-.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control:hover {
-  border: none !important;
-  border-bottom: 2px solid #124ad6 !important;
-}
-.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control:focus {
-  border: none !important;
-  border-bottom: 2px solid #124ad6 !important;
-}
-.cid-uMpME1dYs3 .mbr-section-title {
-  color: #000000;
-}
-.cid-uMpME1dYs3 .mbr-section-subtitle {
-  color: #000000;
-}
 .cid-uMpMnCnXBf {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-uMpMnCnXBf .mbr-fallback-image.disabled {
@@ -26500,6 +26376,130 @@ a {
 }
 .cid-uMpMnCnXBf .mbr-list {
   color: #124ad6;
+}
+.cid-uMpME1dYs3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #e5e5e5;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .form-title,
+  .cid-uMpME1dYs3 .form-wrapper {
+    padding: 0;
+  }
+}
+.cid-uMpME1dYs3 .mbr-section-btn {
+  margin-top: 60px;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .mbr-section-btn {
+    margin-top: 30px;
+  }
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn {
+  height: 21px;
+  min-width: 70px;
+  position: relative;
+  overflow: visible;
+  padding: 0 12px 0 0;
+  justify-content: flex-start;
+  margin-left: 28px;
+  box-shadow: none;
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn:first-child {
+  margin-left: 9.6px;
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn:focus {
+  box-shadow: none;
+}
+@media (max-width: 768px) {
+  .cid-uMpME1dYs3 .mbr-section-btn .btn {
+    max-width: 85px;
+  }
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn span {
+  position: absolute;
+  right: -12px;
+  width: 18px;
+  height: 18px;
+  font-size: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #124ad6;
+  color: #ffffff;
+  margin: 2px 0 0 12px;
+  padding-left: 2px;
+  transition: all .33s ease;
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn:hover {
+  transform: scale(1) !important;
+  color: #3575bd !important;
+}
+.cid-uMpME1dYs3 .mbr-section-btn .btn:hover span {
+  width: 28px;
+  border-radius: 22px;
+  right: -28px;
+}
+.cid-uMpME1dYs3 .title-wrapper {
+  margin-left: 160px;
+  margin-right: 30px;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .title-wrapper {
+    margin: 0 30px 25px;
+  }
+}
+.cid-uMpME1dYs3 .title-wrapper .mbr-section-title {
+  margin: 0;
+}
+.cid-uMpME1dYs3 .mbr-form {
+  margin-right: 160px;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .mbr-form {
+    margin: 0 30px;
+  }
+}
+.cid-uMpME1dYs3 .mbr-form .dragArea .mbr-section-subtitle {
+  margin-bottom: 40px;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .mbr-form .dragArea .mbr-section-subtitle {
+    margin-bottom: 20px;
+  }
+}
+.cid-uMpME1dYs3 .mbr-form .dragArea .form-group {
+  margin-bottom: 20px !important;
+}
+@media (max-width: 992px) {
+  .cid-uMpME1dYs3 .mbr-form .dragArea .form-group {
+    margin-bottom: 12px !important;
+  }
+}
+.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control {
+  min-height: 50px;
+  padding: 10px 25px;
+  background: transparent;
+  box-shadow: none;
+  border: none !important;
+  border-bottom: 2px solid #272727 !important;
+  border-radius: 0;
+}
+.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control:hover {
+  border: none !important;
+  border-bottom: 2px solid #124ad6 !important;
+}
+.cid-uMpME1dYs3 .mbr-form .dragArea .form-group .form-control:focus {
+  border: none !important;
+  border-bottom: 2px solid #124ad6 !important;
+}
+.cid-uMpME1dYs3 .mbr-section-title {
+  color: #000000;
+}
+.cid-uMpME1dYs3 .mbr-section-subtitle {
+  color: #000000;
 }
 .cid-uMpMnCRrNo {
   padding-top: 5rem;
